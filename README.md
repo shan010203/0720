@@ -217,3 +217,21 @@ CIA Triad是資訊安全的基石
 ![image](https://github.com/user-attachments/assets/b1e5494f-240b-4ad7-b39b-030f314023b6)
 ![image](https://github.com/user-attachments/assets/841242e0-7775-48ad-8b10-f95fb0aa9bf0)
 ```
+#請幫我完成9*9乘法表的C程式設計
+```
+#include <stdio.h>
+
+int main() {
+    int i, j;
+
+    // 列出九九乘法表的每一項
+    for (i = 1; i <= 9; i++) {
+        for (j = 1; j <= 9; j++) {
+            printf("%d*%d=%d\t", i, j, i * j);  // 格式化輸出 i*j=i*j
+        }
+        printf("\n");
+    }
+
+    return 0;
+}
+```
