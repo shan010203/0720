@@ -210,3 +210,10 @@ CIA Triad是資訊安全的基石
 
 这个大纲可以帮助你创建一个详细的简报。如果需要更具体的内容或帮助，请告诉我！
 ```
+#請為李白將進酒畫四幅水墨畫
+```
+![image](https://github.com/user-attachments/assets/599cd4dc-7ad2-4273-9d7e-d367b23e9ca3)
+![image](https://github.com/user-attachments/assets/22b48643-e103-436d-bfe1-ec3ccb1a5b0e)
+![image](https://github.com/user-attachments/assets/b1e5494f-240b-4ad7-b39b-030f314023b6)
+![image](https://github.com/user-attachments/assets/841242e0-7775-48ad-8b10-f95fb0aa9bf0)
+```
